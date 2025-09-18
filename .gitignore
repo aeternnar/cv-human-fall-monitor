@@ -1,5 +1,4 @@
-dataset/
 .ipynb_checkpoints/
-resized_pics/
-unresized_pics/
-cvat/
+dataset/
+runs/
+yolo11n.pt
