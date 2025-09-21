@@ -62,7 +62,7 @@ results = model.train(
 )
 ```
 
-![Example](assets/example.jpg)
+![Example](assets/labeled_and_unlabeled.jpg)
 
 ## Результат
 
