@@ -83,6 +83,5 @@ results = model.train(
 
 ---
 
-### Визуализация
-Пример работы модели на тестовых видео:  
+### Визуализация работы на тестовых видео
 ![Fall Detection](assets/final_test_vid.gif)
